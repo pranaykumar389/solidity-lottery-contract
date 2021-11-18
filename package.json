@@ -1,0 +1,25 @@
+{
+  "name": "solidity-lottery-contract",
+  "version": "1.0.0",
+  "description": "This is a Solidity Lottery Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranaykumar389/solidity-lottery-contract.git"
+  },
+  "keywords": [
+    "Solidity",
+    "Lottery",
+    "Contract",
+    "Blockchain"
+  ],
+  "author": "Pranay Rudra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranaykumar389/solidity-lottery-contract/issues"
+  },
+  "homepage": "https://github.com/pranaykumar389/solidity-lottery-contract#readme"
+}
